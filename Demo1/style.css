@@ -1,0 +1,24 @@
+h2{
+    color: crimson;
+}
+
+body{
+    background-color: bisque;
+}
+
+label{
+    color: #8a2be2;
+}
+
+button{
+    color: rgb(66, 66, 220);
+}
+.inputbox{
+    background-color: cadetblue;
+}
+.center{
+    margin: auto;
+    width: 60%;
+    border: 3px solid #8a2be2;
+    padding: 10px;
+}
